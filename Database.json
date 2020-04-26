@@ -1,0 +1,47 @@
+{
+  "customers" : [ {
+    "accountNumber" : -100,
+    "balance" : -100,
+    "type" : "temp",
+    "name" : "temp",
+    "transactions" : [ {
+      "d" : "18-11-2019 13:32:59",
+      "amount" : -100,
+      "newBalance" : -100
+    }, {
+      "d" : "18-11-2019 13:41:37",
+      "amount" : 0,
+      "newBalance" : -100
+    }, {
+      "d" : "18-11-2019 13:41:37",
+      "amount" : 0,
+      "newBalance" : -100
+    } ]
+  }, {
+    "accountNumber" : 764368581,
+    "balance" : 301,
+    "type" : "true",
+    "name" : "AMAN",
+    "transactions" : [ {
+      "d" : "18-11-2019 13:35:35",
+      "amount" : 2000,
+      "newBalance" : 2000
+    }, {
+      "d" : "18-11-2019 13:41:09",
+      "amount" : 300,
+      "newBalance" : 2300
+    }, {
+      "d" : "18-11-2019 13:41:33",
+      "amount" : -2000,
+      "newBalance" : 300
+    }, {
+      "d" : "18-11-2019 13:41:37",
+      "amount" : 1,
+      "newBalance" : 301
+    }, {
+      "d" : "18-11-2019 13:41:37",
+      "amount" : 0,
+      "newBalance" : 301
+    } ]
+  } ]
+}

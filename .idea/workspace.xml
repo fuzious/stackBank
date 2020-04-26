@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54cc2b40-9a95-4f5b-aed4-b2c579b3aa88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Bank.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/BankHelp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/DeleteCustomer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/DeleteCustomer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/DeleteCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/FindAccount$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/FindAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/FindAccountName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/FindName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/HtmlPane$PageLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/HtmlPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/ViewCustomer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/ViewCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/stack/bank/ViewOne.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TPcY6uwwvL71IjMnvfEpJzr1WT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\src\projects\Bank" />
+      <recent name="D:\src\projects\Bank\src\main\java\com\stack\bank" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open C:\Users\fuzious\Desktop\openmrs\Bank" />
+      <command value="open jpf-core" />
+      <command value="open C:\Users\fuzious\IdeaProjects\CP" />
+      <command value="open D:\src\projects\Bank" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.stack.bank.TestFrame" />
+      <module name="stackbank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54cc2b40-9a95-4f5b-aed4-b2c579b3aa88" name="Default Changelist" comment="" />
+      <created>1573365215390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573365215390</updated>
+      <workItem from="1573365222954" duration="1612000" />
+      <workItem from="1573389043428" duration="3324000" />
+      <workItem from="1573413799688" duration="4785000" />
+      <workItem from="1573492723580" duration="799000" />
+      <workItem from="1573494767006" duration="681000" />
+      <workItem from="1573495845243" duration="2104000" />
+      <workItem from="1573536362896" duration="107000" />
+      <workItem from="1573536976338" duration="351000" />
+      <workItem from="1573654048966" duration="18638000" />
+      <workItem from="1573681331306" duration="975000" />
+      <workItem from="1573703331926" duration="68000" />
+      <workItem from="1573755895709" duration="3980000" />
+      <workItem from="1573797637191" duration="531000" />
+      <workItem from="1573964001183" duration="123000" />
+      <workItem from="1573968620410" duration="1115000" />
+      <workItem from="1573995298159" duration="17620000" />
+      <workItem from="1574063184102" duration="4025000" />
+      <workItem from="1587911592805" duration="693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="3" key="#Application" timestamp="1587911637042">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="380" y="3" key="#Application/0.0.1366.768@0.0.1366.768" timestamp="1587911637042" />
+    <state x="275" y="42" key="#Deployment" timestamp="1587911718832">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#Deployment/0.0.1366.768@0.0.1366.768" timestamp="1587911718832" />
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587911609512">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1587911609512" />
+    <state x="412" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587911608058">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="412" y="174" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1587911608058" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1587911729902">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1587911729902" />
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1587912286954">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1587912286954" />
+    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1587912286954">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1587912286954" />
+    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1587912286954">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1587912286954" />
+    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1587912286954">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1587912286954" />
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup" timestamp="1587912282269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" width="672" height="677" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1587912282269" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1587911938367">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1587911938367" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/stack/AppTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
